@@ -133,16 +133,16 @@ This repository utilizes the following tools and libraries:
    FinancialDataAnalysis/
    ├── data/                # Sample datasets
    ├── notebooks/           # Jupyter notebooks for tutorials
-   ├── programs/            # Python scripts for financial analysis
+   ├── scripts/             # Python scripts for financial analysis
    └── README.md
    ```
 
 2. Start with the `notebooks` folder for guided tutorials and explanations.
 
-3. Run Python scripts from the `programs` folder to analyze financial data:
+3. Run Python scripts from the `scripts` folder to analyze financial data:
 
    ```bash
-   python programs/<program_name>.py
+   python scripts/<script_name>.py
    ```
 
 4. Follow the detailed guides on [SinghPrashant.in](https://www.singhprashant.in) to understand the concepts and workflows.
@@ -157,19 +157,19 @@ Contributions are welcome! To contribute:
 2. Create a new branch:
 
    ```bash
-   git checkout -b feature/new-program
+   git checkout -b feature/new-script
    ```
 
 3. Commit your changes:
 
    ```bash
-   git commit -m "Add new program for X"
+   git commit -m "Add new script for X"
    ```
 
 4. Push to the branch:
 
    ```bash
-   git push origin feature/new-program
+   git push origin feature/new-script
    ```
 
 5. Submit a pull request.
@@ -185,8 +185,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Stay Connected
 
 - Visit: [SinghPrashant.in](https://www.singhprashant.in)
-- LinkedIn: [Prashant Singh](https://linkedin.com/in/prashant-fintech)
-
+- LinkedIn: [Prashant Singh](https://linkedin.com/in/yourprofile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
