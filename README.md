@@ -101,7 +101,7 @@ This repository utilizes the following tools and libraries:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/FinancialDataAnalysis.git
+   git clone https://github.com/prashant-fintech/FinancialDataAnalysis.git
    ```
 
 2. Navigate to the project directory:
